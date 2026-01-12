@@ -57,13 +57,13 @@ Current work includes:
 - Apply strict privacy defaults  
 - Replace Brave branding with Vanta branding  
 - Customize UI theme and colors  
-- Add Vanta start page  
+- Add valtro start page  
 - Begin performance optimization work  
 - Explore Gaming Mode features  
 
 ---
 
-## 📦 Building Vanta
+## 📦 Building Valtro
 
 Build instructions will be added as development progresses.  
 For now, Valtro follows the Brave build process with modifications coming soon.
